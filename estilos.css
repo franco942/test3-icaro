@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+
+form{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    color: gray;
+    font-size: 12px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+input, textarea{
+    border: 0;
+    outline: none;
+    width: 280px;
+}
+
+
+
+.campo{
+    border: solid 1px#ccc;
+    padding: 10px;  
+}
+
+.campo:focus{
+    border-color: darkblue#18A383;
+    
+}
+
+.center-content{
+    text-align: center;
+}
